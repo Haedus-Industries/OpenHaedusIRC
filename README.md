@@ -1,6 +1,6 @@
 # OpenHaedusIRC
 
-Java 聊天与在线状态服务，与 [OpenArdion](https://github.com/wzhy233/OpenArdion) 配合使用。
+Java 聊天与在线状态服务
 
 ## 构建和启动
 
